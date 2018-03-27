@@ -9,10 +9,8 @@ redirect_from:
   
 ---
 
+![me](images/me1_min.jpg)
 About me
 ---
 *    I am a sophomore student studying in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), majoring in Computer Science. Now I'm in [Apex Data and Knowledge Mangement Lab](http://www.apexlab.org/), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/).
 *    My research interests lie in the general area of machine learning, particularly in transfer learning and natural language processing, as well as their applications in biomedical informatics and data mining.
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
