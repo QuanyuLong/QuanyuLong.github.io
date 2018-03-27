@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Quanyu Long"
+  avatar           : "profile.jpg"
+  bio              : "I'm a sophomore student studying Shanghai Jiao Tong University"
+  location         : "NO.800 Dongchuan RD, Minhang District Shanghai Jiao Tong University, Shanghai, 100084, P.R. China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : oscar.long@sjtu.edu.cn
   uri              :
   bitbucket        :
   codepen          :
