@@ -7,7 +7,7 @@
 
 # Site Settings
 <<<<<<< HEAD
-locale                   : "Shanghai-China"
+locale                   : "en-US"
 title                    : "Quanyu Long"
 title_separator          : "-"
 name                     : &name "Quanyu Long"
