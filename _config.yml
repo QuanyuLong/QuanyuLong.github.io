@@ -6,19 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-<<<<<<< HEAD
 locale                   : "en-US"
 title                    : "Quanyu Long"
 title_separator          : "-"
 name                     : &name "Quanyu Long"
 description              : &description "I'm a sophomore student studying in Shanghai Jiao Tong University, majoring in Computer Science"
-=======
-locale                   : 
-title                    : "Quanyu Long"
-title_separator          : "-"
-name                     : &name "Quanyu Long"
-description              : &description "'m a sophomore student studying in Shanghai Jiao Tong University, majoring in Computer Science."
->>>>>>> 4cb09d1b21009b06a8a8cff422b1bda5e949f55d
 url                      : https://quanyulong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quanyulong/quanyulong.github.io"
@@ -70,7 +62,8 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profilsocial:
+# - https://developers.google.com/structured-data/customize/social-profiles:
+social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
@@ -87,19 +80,11 @@ analytics:
 author:
   name             : "Quanyu Long"
   avatar           : "me.jpg"
-<<<<<<< HEAD
-  bio              : "I'm a sophomore student studying in Shanghai Jiao Tong University, majoring in Computer Science."
-  location         : "Shanghai China"
-  employer         :
-  googlescholar    : 
-  email            :
-=======
   bio              : "I'm a sophomore student studying Shanghai Jiao Tong University， majoring in Computer Science"
   location         : "Shanghai, P.R. China"
   employer         :
   googlescholar    : 
   email            : "oscar.long@sjtu.edu.cn"
->>>>>>> 4cb09d1b21009b06a8a8cff422b1bda5e949f55d
   uri              :
   bitbucket        :
   codepen          :
