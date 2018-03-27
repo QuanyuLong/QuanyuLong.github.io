@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : 
 title                    : "Quanyu Long"
 title_separator          : "-"
 name                     : &name "Quanyu Long"
-description              : &description "personal description"
+description              : &description "'m a sophomore student studying in Shanghai Jiao Tong University, majoring in Computer Science."
 url                      : https://quanyulong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quanyulong/quanyulong.github.io"
