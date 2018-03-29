@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Quanyu Long"
 title_separator          : "-"
 name                     : &name "Quanyu Long"
-description              : &description "I'm a sophomore student studying in Shanghai Jiao Tong University, majoring in Computer Science"
+description              : &description "My personal website"
 url                      : https://quanyulong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quanyulong/quanyulong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -192,8 +192,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
