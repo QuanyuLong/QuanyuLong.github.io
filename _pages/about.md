@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<div align = "center">![me](images/m4.jpg)</div>
+<div align = "center"><img src="images/m4.jpg"/> </div>
 
 
 *    I am a sophomore student studying in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), majoring in Computer Science(IEEE pilot class). I'm also admitted to [Zhiyuan College](zhiyuan.sjtu.edu.cn), joining in Zhiyuan Honors Program.
