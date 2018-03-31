@@ -193,8 +193,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
-      share: true
+      comments: flase
+      share: false
       related: true
   # _pages
   - scope:
@@ -219,8 +219,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -237,7 +237,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
