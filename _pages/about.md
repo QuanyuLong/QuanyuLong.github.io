@@ -21,3 +21,6 @@ Recent news
 ---
 *    March 12, 2018. Thank [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/) for accepting my request for joing [Apex lab](http://www.apexlab.org/). Now I begin my research of ML.
 *    October 19, 2017. Thanks for the scholarship given by Matsushita Eletctric Education Fund(top 5%).
+
+
+<a href="https://clustrmaps.com/site/1a4fh" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=S4ltOOOb5hNqfuuCWdgDqsaGD0v1lIU0YFRyXTX7W5E&cl=ffffff"></a>
