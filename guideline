@@ -1,0 +1,38 @@
+|---_data
+|---|---navigations.yml   修改导航栏信息
+|---|---authors.yml     作者信息
+
+|---files   pdf文件
+
+|---images  图片
+
+|---_includes　　　网站局部，供其他部分引用
+|---|---footer.html
+|---|---head.html
+|---|---sidebar.html
+
+|---_layouts　　　网站布局文件
+|---|---default.html
+|---|---single.html
+|---|---talk.html
+
+|---_pages  　网站中心内容，名称与navigations.yml一致
+|---|---about.md
+|---|---cv.md
+|---|---award.md
+|---|---publications.md
+|---|---talks.html
+|---|---year-archive.html
+|---|---contact.md
+|---|---markdown.md　　markdown语法示例文件
+
+|---_posts 放博客的文件夹，里面命名有讲究
+
+|---_publications
+
+|---_talks
+
+|---_site　　将模板完全生成标准网页格式
+
+|---_config.yml　　配置文件
+
