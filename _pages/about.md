@@ -19,6 +19,7 @@ redirect_from:
 
 Recent news
 ---
+*    Sep 2018, I won Shanghai Scholarship (top 3%).
 *    March 12, 2018. Thank [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/) for accepting my request for joing [Apex lab](http://www.apexlab.org/). Now I begin my research of ML.
 *    October 19, 2017. Thanks for the scholarship given by Matsushita Eletctric Education Fund(top 5%).
 
