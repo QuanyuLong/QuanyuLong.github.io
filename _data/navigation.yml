@@ -5,15 +5,6 @@ main:
 
   - title: "Awards & Honors"
     url: /awards/
-
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Talks"
-    url: /talks/
-    
-  - title: "Blogs"
-    url: /year-archive/
     
   - title: "Contact"
     url: /contact/

@@ -36,3 +36,19 @@
 
 |---_config.yml　　配置文件
 
+
+data/navigations.yml
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Talks"
+    url: /talks/
+    
+  - title: "Blogs"
+    url: /year-archive/
+    
+    
+includes/foorter.html
+powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+
+
