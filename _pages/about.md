@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<div align = "center"><img src="images/UCLA1.jpg"/> </div>
+<div align = "center"><img src="images/me_sidebar.jpg"/> </div>
 
 
 *    I am a junior student studying in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), majoring in Computer Science(IEEE pilot class). I'm also admitted to [Zhiyuan College](http://zhiyuan.sjtu.edu.cn), joining in Zhiyuan Honors Program.
