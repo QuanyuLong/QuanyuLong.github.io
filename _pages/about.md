@@ -22,7 +22,7 @@ redirect_from:
 Recent news
 ---
 *    Dec. 2019, submitted a long paper to ACL 2020.
-*    Mar. 2019, thanks for [Prof.Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) accepting me as an intern at UCLA NLP Lab. I'll go to UCLA in June 2019.
+*    Mar. 2019, thanks for [Prof.Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) accepting me as an intern at UCLA NLP Lab. I'll go to UCLA in Jun. 2019.
 *    Sep. 2018, I won Shanghai Scholarship (top 3%).
 *    Mar. 2018. Thank [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/) for accepting my request for joining [Apex lab](http://www.apexlab.org/).
 *    October 19, 2017. Thanks for the scholarship given by Matsushita Electric Education Fund(top 5%).
