@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can view and download my CV **[HERE](http://quanyulong.github.io/files/QuanyuLong_CV_newest.pdf).
+You can view and download my CV [HERE](http://quanyulong.github.io/files/QuanyuLong_CV_newest.pdf).
