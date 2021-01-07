@@ -11,17 +11,23 @@ redirect_from:
 
 
 
-<div align = "center"><img src="images/UCLA1.jpg"/> </div>
+<div align = "center"><img src="images/LA.jepg"/> </div>
 
 
-*    I am a senior student studying at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), majoring in Computer Science (IEEE Honor class). I'm also admitted to [Zhiyuan College](http://zhiyuan.sjtu.edu.cn), joining in Zhiyuan Honors Program.
-*    I joined the [Apex Data and Knowledge Management Lab](http://www.apexlab.org/) in Mar. 2018, advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/). My research interests include NLP and Machine Learning.
-*    Since this summer, I have conducted full-time research in Natural Language Processing
-     (NLP) for five months at [the University of California, Los Angeles (UCLA)](<http://www.ucla.edu/>), advised by [Prof. Kai-Wei Chang](<http://web.cs.ucla.edu/~kwchang/>).
+*    I am a first-year CS Ph.D. student at [Nanyang Technological University (NTU)](http://scse.ntu.edu.sg/Pages/Home.aspx) advised by [Prof.Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/index.html). My research interests include Transfer Learning, Machine Learning and Natural Language Processing.
+*    Before entering NTU, I received my bachelor degree at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), and joined the [Apex Data and Knowledge Management Lab](http://www.apexlab.org/), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/).
+
+
+Internships
+---
+*    Jul. 2019 - Dec. 2019, UCLA NLP lab advised by [Prof. Kai-Wei Chang](<http://web.cs.ucla.edu/~kwchang/>).
+*    Mar. 2020 - Nov. 2020, ByteDance AI Lab.
+
 
 Recent news
 ---
-*    Dec. 2019, submitted a long paper to ACL 2020.
+*    Jan. 2021, began my journey at NTU.
+*    Mar. 2020, began internship at ByteDance AI Lab.
 *    Mar. 2019, thanks for [Prof.Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) accepting me as an intern at UCLA NLP Lab. I'll go to UCLA in Jun. 2019.
 *    Sep. 2018, I won Shanghai Scholarship (top 3%).
 *    Mar. 2018. Thank [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/) for accepting my request for joining [Apex lab](http://www.apexlab.org/).
