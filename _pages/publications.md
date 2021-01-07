@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*    **Quanyu Long**, Mingxuan Wang, Lei Li. [Generative Imagination Elevates Machine Translation(https://arxiv.org/abs/2009.09654).
+*    **Quanyu Long**, Mingxuan Wang, Lei Li. [Generative Imagination Elevates Machine Translation](https://arxiv.org/abs/2009.09654).
 
 *    Fan Yin, **Quanyu Long**, Tao Meng, Kai-Wei Chang. [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/abs/2005.05683). ACL 2020.
 
