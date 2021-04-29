@@ -106,6 +106,7 @@ blockquote {
 /* links */
 
 a {
+  color: inherit;
   &:focus {
     @extend %tab-focus;
   }
