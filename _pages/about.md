@@ -28,6 +28,7 @@ Recent news
 ---
 *    Apr. 2021, a new paper about how imagination helps machine translation accepted by NAACL 20201.
 *    Jan. 2021, began my journey at NTU.
+*    Jun. 2020, I was awarded Zhiyuan Hornor Degree of Bachelor of Engineering in Computer Science and Technology.
 *    Mar. 2020, began internship at ByteDance AI Lab.
 *    Mar. 2019, thanks for Prof. [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) accepting me as an intern at UCLA NLP Lab. I'll go to UCLA in Jun. 2019.
 *    Sep. 2018, I won Shanghai Scholarship (top 3%).
