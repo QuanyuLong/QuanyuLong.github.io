@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<div align = "center"><img src="images/LA.jpg" height="500" width="444"/> </div>
+<div align = "center"><img src="images/LA.jpg" height="375" width="333"/> </div>
 
 
 *    I am a first-year CS Ph.D. student at [Nanyang Technological University (NTU)](http://scse.ntu.edu.sg/Pages/Home.aspx) advised by Prof. [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/index.html). My research interests include Transfer Learning, Machine Learning and Natural Language Processing.
