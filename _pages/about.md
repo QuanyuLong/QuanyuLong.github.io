@@ -20,12 +20,13 @@ redirect_from:
 
 Internships
 ---
-*    Jul. 2019 - Dec. 2019, UCLA NLP lab advised by [Prof. Kai-Wei Chang](<http://web.cs.ucla.edu/~kwchang/>).
-*    Mar. 2020 - Nov. 2020, ByteDance AI Lab.
+*    Mar. 2020 - Nov. 2020, ByteDance AI Lab, advised by Dr. [Mingxuan Wang](<https://scholar.google.com/citations?user=hOQ6G6EAAAAJ&hl=en>) and Dr. [Lei Li](<https://lileicc.github.io/>)
+*    Jul. 2019 - Dec. 2019, UCLA NLP lab, advised by Prof. [Kai-Wei Chang](<http://web.cs.ucla.edu/~kwchang/>).
 
 
 Recent news
 ---
+*    Apr. 2021, a new paper about how imagination helps machine translation accepted by NAACL 20201.
 *    Jan. 2021, began my journey at NTU.
 *    Mar. 2020, began internship at ByteDance AI Lab.
 *    Mar. 2019, thanks for [Prof.Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) accepting me as an intern at UCLA NLP Lab. I'll go to UCLA in Jun. 2019.

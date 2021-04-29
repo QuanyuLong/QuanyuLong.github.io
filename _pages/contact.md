@@ -7,8 +7,6 @@ author_profile: true
 
   
 
-Computer Science Department, Shanghai Jiao Tong University  
-Office: 311 Yifu Building, NO.800 Dongchuan Rd, Shanghai, 200240, P.R. China  
-Email: oscar.long@sjtu.edu.cn  
-
-
+School of Computer Science and Engineering (SCSE), Nanyang Technological University (NTU)  
+Office: 50 Nanyang Avenue, Block N4 #B1a-02, Computational Intelligence Lab (CIL), Singapore 639798
+Email: quanyu001@e.ntu.edu.sg
